@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>additional_notes</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 22:26:34</sys_created_on>
+        <sys_id>412e68099311cbd0d285f5321bba10bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>additional_notes</sys_name>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_update_name>sys_ui_policy_action_412e68099311cbd0d285f5321bba10bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 07:12:54</sys_updated_on>
+        <table>x_787189_wrm_reservation_tracker</table>
+        <ui_policy display_value="Hide Reservation Details">5c0de8459311cbd0d285f5321bba10e1</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=412e68099311cbd0d285f5321bba10bc"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Workspace Reservation Request">d12b501d939d0fd0d285f5321bba10d9</sc_cat_item>
+        <sc_category display_value="Workspace Reservation">7d8bdc1d939d0fd0d285f5321bba1047</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 15:45:17</sys_created_on>
+        <sys_id>a8fb5c5d939d0fd0d285f5321bba103a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workspace Reservation.Workspace Reservation Request</sys_name>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_update_name>sc_cat_item_category_a8fb5c5d939d0fd0d285f5321bba103a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 15:45:17</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
