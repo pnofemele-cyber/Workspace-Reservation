@@ -8,7 +8,7 @@
         <duration>1970-01-01 04:00:00</duration>
         <duration_type/>
         <enable_logging>false</enable_logging>
-        <flow display_value="Default SLA flow">828f267973333300e289235f04f6a7a3</flow>
+        <flow display_value="Workspace Resevation  SLA flow">b41cc64593a9cb54d285f5321bba10ae</flow>
         <name>Workspace Reservation Fulfillment SLA</name>
         <pause_condition/>
         <relative_duration_works_on>Task record</relative_duration_works_on>
@@ -17,7 +17,7 @@
         <resume_condition/>
         <retroactive>false</retroactive>
         <retroactive_pause>true</retroactive_pause>
-        <schedule display_value="8-5 weekdays">08fcd0830a0a0b2600079f56b1adb9ae</schedule>
+        <schedule display_value="24 x 7">38fa64edc0a8016400f4a5724b0434b8</schedule>
         <schedule_source>sla_definition</schedule_source>
         <schedule_source_field/>
         <set_start_to/>
@@ -34,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8feffc899321cb54d285f5321bba1025</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Workspace Reservation Fulfillment SLA</sys_name>
         <sys_overrides/>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
@@ -42,8 +42,8 @@
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
         <sys_update_name>contract_sla_8feffc899321cb54d285f5321bba1025</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-16 10:53:31</sys_updated_on>
-        <target>resolution</target>
+        <sys_updated_on>2026-06-16 15:34:48</sys_updated_on>
+        <target/>
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
         <type>SLA</type>
