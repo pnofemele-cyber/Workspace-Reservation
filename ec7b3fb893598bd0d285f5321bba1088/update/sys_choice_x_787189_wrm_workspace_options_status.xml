@@ -21,26 +21,6 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Under Maintenance</label>
-            <language>en</language>
-            <name>x_787189_wrm_workspace_options</name>
-            <sequence>0</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-06-03 19:57:19</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>aa0c048d93d98bd0d285f5321bba1030</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-03 19:57:19</sys_updated_on>
-            <value>Under Maintenance</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>status</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Available</label>
             <language>en</language>
             <name>x_787189_wrm_workspace_options</name>
@@ -81,7 +61,7 @@
             <element>status</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Under maintenance</label>
+            <label>In maintenance</label>
             <language>en</language>
             <name>x_787189_wrm_workspace_options</name>
             <sequence>30</sequence>
@@ -91,10 +71,10 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>82bffb3093998bd0d285f5321bba1014</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-06-03 19:06:12</sys_updated_on>
-            <value>under_maintenance</value>
+            <sys_updated_on>2026-06-21 21:31:51</sys_updated_on>
+            <value>in_maintenance</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
