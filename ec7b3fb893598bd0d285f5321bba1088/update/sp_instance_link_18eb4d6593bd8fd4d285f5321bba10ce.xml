@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>home</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Workspace Reservation Request">d12b501d939d0fd0d285f5321bba10d9</sc_cat_item>
+        <sc_category/>
+        <short_description>Browse the catalog for services and items you need</short_description>
+        <size>md</size>
+        <sp_column display_value="1">90eb4d6593bd8fd4d285f5321bba10ca</sp_column>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-30 10:24:35</sys_created_on>
+        <sys_id>18eb4d6593bd8fd4d285f5321bba10ce</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Workspace Reservation Request </sys_name>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_update_name>sp_instance_link_18eb4d6593bd8fd4d285f5321bba10ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-30 11:11:30</sys_updated_on>
+        <title>Workspace Reservation Request </title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	},
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=18eb4d6593bd8fd4d285f5321bba10ce"/>
+</record_update>

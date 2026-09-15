@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>index_wrm</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles>x_787189_wrm.wrm_user</roles>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-30 10:24:34</sys_created_on>
+        <sys_id>84eb41e193bd8fd4d285f5321bba1092</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>index_wrm</sys_name>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_update_name>sp_page_84eb41e193bd8fd4d285f5321bba1092</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-30 11:40:31</sys_updated_on>
+        <title>Workspace Reservation Home Page </title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=84eb41e193bd8fd4d285f5321bba1092"/>
+</record_update>
