@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_workspace_name" label="Workspace Name" language="en" table="x_787189_wrm_import_on_demand">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_workspace_name</element>
+            <help/>
+            <hint/>
+            <label>Workspace Name</label>
+            <language>en</language>
+            <name>x_787189_wrm_import_on_demand</name>
+            <plural>Workspace Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-14 15:10:00</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Workspace Name</sys_name>
+            <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+            <sys_update_name>sys_documentation_x_787189_wrm_import_on_demand_u_workspace_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-14 15:10:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

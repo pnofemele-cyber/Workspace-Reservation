@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="47fa000d93d98bd0d285f5321bba1030" extends="sys_import_set_row" label="Workspace Options Import" max_length="40" name="x_787189_wrm_workspace_options_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Workspace Description" label="Workspace Description" max_length="73" name="u_workspace_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Max Occupancy" label="Max Occupancy" max_length="40" name="u_max_occupancy" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Image" label="Image" max_length="40" name="u_image" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Workspace Name" label="Workspace Name" max_length="40" name="u_workspace_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Workspace Type" label="Workspace Type" max_length="40" name="u_workspace_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="string"/>
+    </element>
+</database>

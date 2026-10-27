@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9bdf1449939d8bd0d285f5321bba10f1" label="Workspace Maintenance" max_length="40" name="x_787189_wrm_workspace_maintenance" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Reservation" mandatory="true" max_length="32" name="reservation" reference="x_787189_wrm_reservation_tracker" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Ticket status" mandatory="true" max_length="40" name="ticket_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" value="closed"/>
+                <element inactive_on_update="false" label="Open" value="open"/>
+            </choice>
+        </element>
+        <element label="Work performed" max_length="1000" name="work_performed" type="string"/>
+        <element label=" Issue description " mandatory="true" max_length="1000" name="issue_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Workspace" mandatory="true" max_length="32" name="workspace" reference="x_787189_wrm_workspace_options" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Date reported " mandatory="true" max_length="40" name="date_reported" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assignment group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Workspace status" mandatory="true" max_length="40" name="workspace_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In maintenance" value="in_maintenance"/>
+                <element inactive_on_update="false" label="Decommissioned" value="decommissioned"/>
+                <element inactive_on_update="false" label="Available" value="available"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="reservation"/>
+        </index>
+        <index name="index4">
+            <element name="workspace"/>
+        </index>
+    </element>
+</database>

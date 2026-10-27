@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>regular employees making bookings</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id/>
+        <federated_id>o2hMeCaaxXO6eVLl464XHd0uz76/TKF72W6g5+WkMC0=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_787189_wrm.wrm_user</name>
@@ -16,9 +16,9 @@
         <sys_id>a47b3fb893598bd0d285f5321bba10fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_787189_wrm.wrm_user</sys_name>
-        <sys_package display_value="wrm" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
-        <sys_scope display_value="wrm">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
         <sys_update_name>sys_user_role_a47b3fb893598bd0d285f5321bba10fb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-03 18:44:49</sys_updated_on>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="de6fc805931d8bd0d285f5321bba10dd" extends="task" label="Reservation Tracker" max_length="40" name="x_787189_wrm_reservation_tracker" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Reserved for" max_length="32" name="reserved_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Workspace" max_length="32" name="workspace" reference="x_787189_wrm_workspace_options" type="reference"/>
+        <element label="Additional notes" max_length="1000" name="additional_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reservation status" max_length="40" name="reservation_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" value="cancelled"/>
+                <element inactive_on_update="false" label="No-show" value="no_show"/>
+                <element inactive_on_update="false" label="Checked-in" value="checked_in"/>
+                <element inactive_on_update="false" label="Pending check-in" value="pending_check_in"/>
+                <element inactive_on_update="false" label="Checked-out" value="checked_out"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Request number" max_length="32" name="request_number" reference="sc_req_item" type="reference"/>
+    </element>
+</database>

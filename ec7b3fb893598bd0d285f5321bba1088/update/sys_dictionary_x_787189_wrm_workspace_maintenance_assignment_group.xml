@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="assignment_group" table="x_787189_wrm_workspace_maintenance">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-03 21:35:23</sys_created_on>
-        <sys_id>dc5260cd939d8bd0d285f5321bba1080</sys_id>
         <sys_name>Assignment group</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>

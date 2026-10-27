@@ -11,6 +11,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>multipart/mixed</content_type>
+        <default_digest>false</default_digest>
         <default_interval/>
         <description>Send an email to the user specified in Parm1</description>
         <digest_from/>
@@ -23,6 +24,7 @@
         <digest_subject/>
         <digest_template/>
         <digest_text/>
+        <digest_type/>
         <digestable>false</digestable>
         <enable_dynamic_translation>false</enable_dynamic_translation>
         <event_name>sla.warning.parm</event_name>
@@ -57,7 +59,7 @@ Click here to view ${task.URI_REF}]]></message_text>
         <order>100</order>
         <push_message_only>false</push_message_only>
         <recipient_fields/>
-        <recipient_groups name="Workspace Agents">986d027a93d94b14d285f5321bba10b7</recipient_groups>
+        <recipient_groups>986d027a93d94b14d285f5321bba10b7</recipient_groups>
         <recipient_users/>
         <reply_to/>
         <send_self>false</send_self>

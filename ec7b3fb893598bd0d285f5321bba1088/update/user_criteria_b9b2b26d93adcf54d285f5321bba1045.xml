@@ -4,7 +4,7 @@
         <advanced>false</advanced>
         <company/>
         <department/>
-        <group name="Workspace Agents">986d027a93d94b14d285f5321bba10b7</group>
+        <group>986d027a93d94b14d285f5321bba10b7</group>
         <location/>
         <match_all>false</match_all>
         <name>Import on Demand Users</name>

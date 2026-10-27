@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_nlu_language">
+    <sys_cs_nlu_language action="INSERT_OR_UPDATE">
+        <enabled>false</enabled>
+        <language display_value="German">c62633b193d3c71019ddf15efaba10c7</language>
+        <sys_class_name>sys_cs_nlu_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-14 07:01:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4e2633b193d3c71019ddf15efaba10c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_update_name>sys_cs_nlu_language_4e2633b193d3c71019ddf15efaba10c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-14 07:01:12</sys_updated_on>
+    </sys_cs_nlu_language>
+</record_update>

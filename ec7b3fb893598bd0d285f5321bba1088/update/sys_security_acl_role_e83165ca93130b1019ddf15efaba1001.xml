@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-14 14:48:52</sys_created_on>
+        <sys_id>e83165ca93130b1019ddf15efaba1001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_787189_wrm_reservation_tracker.x_787189_wrm.wrm_agent</sys_name>
+        <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+        <sys_security_acl display_value="x_787189_wrm_reservation_tracker">2c3125ca93130b1019ddf15efaba109f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e83165ca93130b1019ddf15efaba1001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-14 14:48:52</sys_updated_on>
+        <sys_user_role display_value="x_787189_wrm.wrm_agent" name="x_787189_wrm.wrm_agent">ec7b3fb893598bd0d285f5321bba10a5</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

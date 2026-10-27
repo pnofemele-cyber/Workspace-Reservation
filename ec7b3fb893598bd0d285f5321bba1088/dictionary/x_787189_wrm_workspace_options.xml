@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7afcb3bc93598bd0d285f5321bba106a" label="Workspace Options" max_length="40" name="x_787189_wrm_workspace_options" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Workspace name" max_length="100" name="workspace_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="10" value="available"/>
+                <element inactive_on_update="false" label="In maintenance" sequence="30" value="in_maintenance"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="40" value="decommissioned"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="20" value="unavailable"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Max occupancy" max_length="40" name="max_occupancy" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Workspace type" max_length="40" name="workspace_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Focus Room" sequence="0" value="Focus Room"/>
+                <element inactive_on_update="false" label="Hot desk" value="hot_desk"/>
+                <element inactive_on_update="false" label="Collaboration Space" sequence="0" value="Collaboration Space"/>
+                <element inactive_on_update="false" label="Meeting room" value="meeting_room"/>
+                <element inactive_on_update="false" label="Collaboration space" value="collaboration_space"/>
+                <element inactive_on_update="false" label="Hot Desk" sequence="0" value="Hot Desk"/>
+                <element inactive_on_update="false" label="Focus room" value="focus_room"/>
+                <element inactive_on_update="false" label="Meeting Room" sequence="0" value="Meeting Room"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Workspace description" max_length="1000" name="workspace_description" type="string"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

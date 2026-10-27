@@ -6,7 +6,7 @@
         <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
         <filter_extension/>
@@ -19,20 +19,20 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">d064a18d93133210d285f5321bba101a</super_class>
+        <super_class display_value="Task" name="task">fc4e9d04a56103108bb220b7a4d21277</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-06-03 20:14:08</sys_created_on>
         <sys_id>de6fc805931d8bd0d285f5321bba10dd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Reservation Tracker</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
         <sys_update_name>sys_db_object_de6fc805931d8bd0d285f5321bba10dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-03 20:14:09</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_on>2026-09-14 14:48:51</sys_updated_on>
+        <update_access>true</update_access>
         <user_role display_value="x_787189_wrm.wrm_agent" name="x_787189_wrm.wrm_agent">ec7b3fb893598bd0d285f5321bba10a5</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>

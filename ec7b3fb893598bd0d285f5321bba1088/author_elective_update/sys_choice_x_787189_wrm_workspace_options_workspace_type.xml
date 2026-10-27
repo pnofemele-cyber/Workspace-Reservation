@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-06-03 19:11:18</sys_created_on>
-            <sys_id>a08140c593998bd0d285f5321bba10ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>workspace_type</sys_name>
             <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-06-03 19:12:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cfa10cc593998bd0d285f5321bba10ff</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:12:52</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-06-03 19:12:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e88144c593998bd0d285f5321bba10ce</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:12:13</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-06-03 19:11:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>457180c593998bd0d285f5321bba100b</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:11:39</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-06-03 19:13:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>88d1400993998bd0d285f5321bba1018</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:13:32</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2026-06-03 19:57:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>620c048d93d98bd0d285f5321bba1019</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:57:18</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2026-06-03 19:57:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>260c048d93d98bd0d285f5321bba1011</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:57:18</sys_updated_on>
@@ -150,7 +143,6 @@
             <sys_created_on>2026-06-03 19:57:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e60c048d93d98bd0d285f5321bba1001</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:57:18</sys_updated_on>
@@ -170,7 +162,6 @@
             <sys_created_on>2026-06-03 19:57:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ea0c048d93d98bd0d285f5321bba101e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-06-03 19:57:18</sys_updated_on>

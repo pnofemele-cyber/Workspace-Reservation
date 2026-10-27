@@ -9,7 +9,7 @@
         <name>Workspace Reservation Home Page  - Container 2</name>
         <order>2</order>
         <semantic_tag/>
-        <sp_page display_value="copy_of_index_wrm_1">84eb41e193bd8fd4d285f5321bba1092</sp_page>
+        <sp_page display_value="index_wrm">84eb41e193bd8fd4d285f5321bba1092</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>

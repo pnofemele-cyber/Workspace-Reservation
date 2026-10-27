@@ -25,8 +25,10 @@ $text-muted:#666666;
 </css_variables>
         <dark_theme/>
         <default>false</default>
+        <embeddable_macroponents/>
         <enable_ais>false</enable_ais>
         <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_embeddables>false</enable_embeddables>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
         <homepage display_value="index_wrm">84eb41e193bd8fd4d285f5321bba1092</homepage>
@@ -36,6 +38,7 @@ $text-muted:#666666;
         <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
         <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
         <logo>6c6496e593f5cfd4d285f5321bba102a</logo>
+        <logo_alt_text/>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
         <rtl_enabled>false</rtl_enabled>

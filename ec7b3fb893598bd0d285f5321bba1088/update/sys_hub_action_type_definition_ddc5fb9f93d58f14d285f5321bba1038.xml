@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ddc5fb9f93d58f14d285f5321bba1038</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Send Discord Approval Notificaion</sys_name>
         <sys_overrides/>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_ddc5fb9f93d58f14d285f5321bba1038</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-15 19:22:07</sys_updated_on>
+        <sys_updated_on>2026-09-11 15:49:16</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -180,18 +180,6 @@ reservedFor +&#13;
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=ce04e478932d0b54d285f5321bba109b"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>ce04e478932d0b54d285f5321bba109b</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-15 13:19:21</sys_created_on>
-        <sys_id>8a04e478932d0b54d285f5321bba10b1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-15 13:19:21</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>reserved_for</field>
         <id>ce04e478932d0b54d285f5321bba109b</id>
         <sys_created_by>admin</sys_created_by>
@@ -202,18 +190,6 @@ reservedFor +&#13;
         <sys_updated_on>2026-06-15 13:53:05</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_ce04e478932d0b54d285f5321bba109b</table>
         <value>{{action.reserved_for}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>ce04e478932d0b54d285f5321bba109b</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-15 13:19:21</sys_created_on>
-        <sys_id>4a04e478932d0b54d285f5321bba10b2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-15 13:19:21</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>start_date_time</field>
@@ -1125,11 +1101,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:20</sys_created_on>
         <sys_id>8204e478932d0b54d285f5321bba1056</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Reserved For</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ddc5fb9f93d58f14d285f5321bba1038_reserved_for_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:20</sys_updated_on>
         <url/>
@@ -1148,11 +1124,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:21</sys_created_on>
         <sys_id>8a04e478932d0b54d285f5321bba107c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Start Date/Time</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ddc5fb9f93d58f14d285f5321bba1038_start_date_time_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:21</sys_updated_on>
         <url/>
@@ -1171,11 +1147,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:21</sys_created_on>
         <sys_id>ca04e478932d0b54d285f5321bba1083</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Tracker Record</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ddc5fb9f93d58f14d285f5321bba1038_tracker_record_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:21</sys_updated_on>
         <url/>
@@ -1194,11 +1170,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:21</sys_created_on>
         <sys_id>ce04e478932d0b54d285f5321bba105d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Workspace</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_ddc5fb9f93d58f14d285f5321bba1038_workspace_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:21</sys_updated_on>
         <url/>
@@ -1218,11 +1194,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:22</sys_created_on>
         <sys_id>d604e478932d0b54d285f5321bba10e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ddc5fb9f93d58f14d285f5321bba1038___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:22</sys_updated_on>
         <url/>
@@ -1241,11 +1217,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 13:19:22</sys_created_on>
         <sys_id>de04e478932d0b54d285f5321bba10be</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ddc5fb9f93d58f14d285f5321bba1038___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 13:19:22</sys_updated_on>
         <url/>
@@ -1445,18 +1421,6 @@ reservedFor +&#13;
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=0e9f2c3093ad0b54d285f5321bba1075"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>0e9f2c3093ad0b54d285f5321bba1075</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-15 14:09:53</sys_created_on>
-        <sys_id>529f2c3093ad0b54d285f5321bba10d9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-15 14:09:53</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>reserved_for</field>
         <id>0e9f2c3093ad0b54d285f5321bba1075</id>
         <sys_created_by>admin</sys_created_by>
@@ -1467,18 +1431,6 @@ reservedFor +&#13;
         <sys_updated_on>2026-06-15 14:09:53</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_0e9f2c3093ad0b54d285f5321bba1075</table>
         <value>{{action.reserved_for}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>0e9f2c3093ad0b54d285f5321bba1075</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-06-15 14:09:53</sys_created_on>
-        <sys_id>969f2c3093ad0b54d285f5321bba10d9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-06-15 14:09:53</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>start_date_time</field>
@@ -2390,11 +2342,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:52</sys_created_on>
         <sys_id>0a9f2c3093ad0b54d285f5321bba105a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Start Date/Time</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_799f2c3093ad0b54d285f5321bba1032_start_date_time_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:52</sys_updated_on>
         <url/>
@@ -2413,11 +2365,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:52</sys_created_on>
         <sys_id>0a9f2c3093ad0b54d285f5321bba1061</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Tracker Record</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_799f2c3093ad0b54d285f5321bba1032_tracker_record_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:52</sys_updated_on>
         <url/>
@@ -2436,11 +2388,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:51</sys_created_on>
         <sys_id>ca9f2c3093ad0b54d285f5321bba1054</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Workspace</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_799f2c3093ad0b54d285f5321bba1032_workspace_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:51</sys_updated_on>
         <url/>
@@ -2459,11 +2411,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:51</sys_created_on>
         <sys_id>f19f2c3093ad0b54d285f5321bba1041</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Reserved For</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_799f2c3093ad0b54d285f5321bba1032_reserved_for_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:51</sys_updated_on>
         <url/>
@@ -2483,11 +2435,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:53</sys_created_on>
         <sys_id>129f2c3093ad0b54d285f5321bba10f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_799f2c3093ad0b54d285f5321bba1032___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:53</sys_updated_on>
         <url/>
@@ -2506,11 +2458,11 @@ reservedFor +&#13;
         <sys_created_on>2026-06-15 14:09:53</sys_created_on>
         <sys_id>969f2c3093ad0b54d285f5321bba10e7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_799f2c3093ad0b54d285f5321bba1032___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-06-15 14:09:53</sys_updated_on>
         <url/>
@@ -2520,6 +2472,6 @@ reservedFor +&#13;
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>ddc5fb9f93d58f14d285f5321bba1038</sys_id>
         <latest_snapshot>799f2c3093ad0b54d285f5321bba1032</latest_snapshot>
-        <compiler_build>glide-yokohama-12-18-2024__patch11-12-16-2025_01-04-2026_2103.zip</compiler_build>
+        <compiler_build>glide-zurich-07-01-2025__patch10-05-22-2026_06-12-2026_2311.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>

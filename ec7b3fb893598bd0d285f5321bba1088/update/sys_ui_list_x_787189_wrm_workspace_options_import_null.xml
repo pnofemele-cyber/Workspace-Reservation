@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_787189_wrm_workspace_options_import" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>import_set_run</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>2e4906459397031019ddf15efaba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>template_import_log</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>a24906459397031019ddf15efaba10a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_image</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>2a4906459397031019ddf15efaba10a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_location</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>ae4906459397031019ddf15efaba10a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_max_occupancy</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>264906459397031019ddf15efaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_status</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>aa4906459397031019ddf15efaba10a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_workspace_description</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>224906459397031019ddf15efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_workspace_name</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>a64906459397031019ddf15efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_workspace_type</element>
+            <list_id display_value="x_787189_wrm_workspace_options_import" element="NULL" name="x_787189_wrm_workspace_options_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2e4906459397031019ddf15efaba109f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_id>2e4906459397031019ddf15efaba10a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_787189_wrm_workspace_options_import</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-11 15:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e4906459397031019ddf15efaba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_787189_wrm_workspace_options_import</sys_name>
+            <sys_package display_value="Workspace Reservation Management" source="x_787189_wrm">ec7b3fb893598bd0d285f5321bba1088</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workspace Reservation Management">ec7b3fb893598bd0d285f5321bba1088</sys_scope>
+            <sys_update_name>sys_ui_list_x_787189_wrm_workspace_options_import_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-11 15:10:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
